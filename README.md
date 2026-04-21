@@ -1,4 +1,4 @@
-# email-verification-code
+# emailverification
 
 A simple Python script for verifying email addresses using syntax, DNS, and SMTP mailbox verification.
 
