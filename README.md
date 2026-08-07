@@ -25,7 +25,7 @@ This project provides a Python-based email verification tool that validates emai
 
 ```bash
 # Clone the repository
-git clone https://github.com/bryanseah234/Python-Email-Verification-Script.git
+git clone https://github.com/hongyime/Python-Email-Verification-Script.git
 
 # Navigate to project directory
 cd Python-Email-Verification-Script
@@ -64,4 +64,4 @@ Apache License 2.0
 
 ---
 
-**Author:** <a href="https://github.com/bryanseah234">bryanseah234</a>
+**Author:** <a href="https://github.com/hongyime">hongyime</a>
