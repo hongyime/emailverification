@@ -60,8 +60,4 @@ When prompted, enter the email address you wish to verify. The script will:
 
 ## License
 
-Apache License 2.0
-
----
-
-**Author:** <a href="https://github.com/hongyime">hongyime</a>
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
