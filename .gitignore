@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+.pytest_cache/
