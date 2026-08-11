@@ -1,5 +1,10 @@
 # emailverification
 
+Live demo: https://hongyime.github.io/emailverification/
+
+![Project screenshot](./screenshot.png)
+
+
 A simple Python script for verifying email addresses using syntax, DNS, and SMTP mailbox verification.
 
 ## Description
